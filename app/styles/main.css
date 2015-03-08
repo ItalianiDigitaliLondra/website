@@ -23,3 +23,13 @@
 .green {
   color: #4CAF50;
 }
+
+.fb-group {
+  position: absolute;
+  bottom: 35px;
+  text-align: center;
+  width: 100%;
+}
+.img-fb-group {
+  height: 75px;
+}
