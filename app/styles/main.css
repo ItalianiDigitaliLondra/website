@@ -1,0 +1,25 @@
+.content {
+
+}
+.home-splash {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  background-image: url(../images/bg1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+.jumbo-title {
+  margin-top: 4vw;
+  font-size: 2.7em;
+  color: #fff;
+  text-shadow: 2px 2px 0 #000;
+}
+.red {
+  color: #F44336;
+}
+.green {
+  color: #4CAF50;
+}
